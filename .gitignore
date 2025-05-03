@@ -1,0 +1,6 @@
+venv/          # Virtual environment folder
+__pycache__/   # Compiled Python files
+*.pyc          # Bytecode cache files
+*.pyo          # Optimized bytecode files
+.env           # Environment variables (API keys, secrets)
+.vscode/       # Visual Studio Code settings
